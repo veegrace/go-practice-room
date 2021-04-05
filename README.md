@@ -7,5 +7,5 @@
 ![image](https://user-images.githubusercontent.com/71112317/113577930-a4b9ee80-9654-11eb-83d9-07583ff44ed5.png)
 
 ### Go Buffalo Pop
-🔗 https://gobuffalo.io/en/docs/db/getting-started/
 ![image](https://user-images.githubusercontent.com/71112317/113578106-de8af500-9654-11eb-809c-a0ef8fc9e275.png)
+🔗 https://gobuffalo.io/en/docs/db/getting-started/
