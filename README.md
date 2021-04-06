@@ -8,4 +8,6 @@
 
 ### Go Buffalo Pop
 ![image](https://user-images.githubusercontent.com/71112317/113578106-de8af500-9654-11eb-809c-a0ef8fc9e275.png)
-🔗 https://gobuffalo.io/en/docs/db/getting-started/
+
+### Essential Go 
+![image](https://user-images.githubusercontent.com/71112317/113657529-b9d46300-96d0-11eb-87b7-23c0d29cf113.png)
