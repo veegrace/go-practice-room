@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/71112317/113659197-1d13c480-96d4-11eb-97fe-67f460409011.png)
 
 ### <a href="https://www.manning.com/books/go-in-action" target="_top">Go In Action</a>
-![image](https://user-images.githubusercontent.com/71112317/113659169-0b322180-96d4-11eb-8dde-91a31662bd9e.png)
+![image](https://user-images.githubusercontent.com/71112317/113659283-46345500-96d4-11eb-9e5a-2742702ccef4.png)
 
 ### <a href="https://www.packtpub.com/product/go-programming-blueprints-second-edition/9781786468949" target="_top">Go Programming Blueprints - Second Edition</a>
 ![image](https://user-images.githubusercontent.com/71112317/113577930-a4b9ee80-9654-11eb-83d9-07583ff44ed5.png)
