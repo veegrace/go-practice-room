@@ -1,6 +1,8 @@
 # MY RESOURCES
 
 ### Test With Go course by John Calhoun:
+![image](https://user-images.githubusercontent.com/71112317/113658898-86470800-96d3-11eb-9b61-a32dfc0200ff.png)
+
   * https://courses.calhoun.io/signin?
   * https://github.com/joncalhoun/twg (repo from course)
 
