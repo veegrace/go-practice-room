@@ -20,3 +20,6 @@
 
 ### <a href="https://gobuffalo.io/en/docs/db/getting-started/" target="_top">Go Buffalo Pop</a>
 ![image](https://user-images.githubusercontent.com/71112317/113578106-de8af500-9654-11eb-809c-a0ef8fc9e275.png)
+
+
+You can also check out the list of golang books recommended by Sir Calhoun <a href="https://github.com/joncalhoun/GoBooks#starter-books" target="_top">here</a>
